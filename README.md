@@ -1,0 +1,1 @@
+# cljs-no-ns-test
